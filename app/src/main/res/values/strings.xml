@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OpenCVBasic</string>
+    <string name="eigenfaces">eigenfaces</string>
+    <string name="tensorflow">tensorflow</string>
+    <string name="caffe">caffe</string>
+    <string name="imageReshaping">imageReshaping</string>
+</resources>
